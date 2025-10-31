@@ -1,0 +1,8 @@
+title: idk whats going on
+layout: default
+theme: minima
+plugins:
+  - jekyll-feed
+domain: my-site.github.io 
+url: https://bury.github.io 
+baseurl: /burasgm.bigdrandy.io/
