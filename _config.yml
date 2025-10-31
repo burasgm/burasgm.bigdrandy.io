@@ -4,5 +4,15 @@ theme: minima
 plugins:
   - jekyll-feed
 domain: my-site.github.io 
-url: https://bury.github.io 
+url: https://burasgm.github.io 
 baseurl: /burasgm.bigdrandy.io/
+lsi: false
+safe: true
+source: strona
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
